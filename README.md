@@ -1,0 +1,1 @@
+# osasimi7160.rails
